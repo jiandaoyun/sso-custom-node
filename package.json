@@ -1,0 +1,23 @@
+{
+  "name": "@jdy/demo-custom",
+  "version": "1.0.0",
+  "description": "Demo project for SSO(Custom) with Jiandaoyun.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SSO",
+    "Jiandaoyun"
+  ],
+  "author": "vista@fanruan.com",
+  "license": "MIT",
+  "engine": {
+    "node": ">=12.3.1"
+  }
+}
